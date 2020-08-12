@@ -8,7 +8,7 @@
 		"debug": "nodemon %NODE_DEBUG_OPTION% ./bin/www"
 	},
 	"dependencies": {
-		"apollo-server-express": "^2.0.3",
+		"apollo-server-express": "^2.16.0",
 		"cookie-parser": "~1.4.3",
 		"cors": "latest",
 		"debug": "~2.6.9",
